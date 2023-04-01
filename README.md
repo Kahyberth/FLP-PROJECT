@@ -9,8 +9,7 @@
   </p>
 
   
-<!-- Badges -->
-[![GitHub contributors](https://badgen.net/github/contributors/Kahyberthg/FLP-PROYECT)](https://GitHub.com/Kahyberthg/FLP-PROYECT/graphs/contributors/)
+
    
 <h4>
   <span> · </span>
@@ -174,8 +173,8 @@ let x = 2 in begin set x := 9 x end
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/Kahyberth/FLP-PROYECT/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Kahyberth/FLP-PROYECT" />
+<a href="https://github.com/Kahyberthg/FLP-PROYECT/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Kahyberthg/FLP-PROYECT" />
 </a>
 
 
